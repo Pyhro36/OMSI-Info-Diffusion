@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="EclipseModuleManager">
+    <libelement value="file://F:\WinUsers\PL\Documents\Informatique\workspace\OMSI\omsi_InfoDiffusion" />
+    <src_description expected_position="0">
+      <src_folder value="file://$MODULE_DIR$/" expected_position="0" />
+    </src_description>
+  </component>
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$" isTestSource="false" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="jdk" jdkName="JavaSE-1.7" jdkType="JavaSDK" />
+    <orderEntry type="module-library">
+      <library name="omsi_InfoDiffusion">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/omsi_InfoDiffusion" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+  </component>
+</module>
